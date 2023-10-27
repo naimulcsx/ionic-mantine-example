@@ -1,0 +1,7 @@
+{
+  "name": "ionic-mantine-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
